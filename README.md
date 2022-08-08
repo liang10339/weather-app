@@ -6,6 +6,7 @@
 
 ## :link: Demo
 
+https://liang10339.github.io/weather-app
 
 ## ⛏️ Techs
 - react 18.2.0
