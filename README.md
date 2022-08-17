@@ -17,6 +17,8 @@ https://liang10339.github.io/weather-app
 - localStorage
 
 ## :camera: Screenshots
+- light mode
 ![weather-app-homepage](https://user-images.githubusercontent.com/34334123/184081669-f7f86c7b-5f86-4fa5-9872-73e3fb6cc0ff.png)
+- dark mode
 ![weather-app-darkmode](https://user-images.githubusercontent.com/34334123/184081653-bd53e472-ccba-4ba9-b048-6d25729a43bd.png)
 
